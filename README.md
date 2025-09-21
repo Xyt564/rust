@@ -37,7 +37,7 @@ Cargo is Rust’s build system and package manager.
 # Navigate into the project directory
 cd your_project_name
 
-(in this files case do cargo new (file name) and replace ur main.rs
+(in this case do cargo new (file name) and replace ur main.rs
 with the file u downloaded from the repo)
 
 # Build the project
