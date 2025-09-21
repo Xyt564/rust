@@ -57,8 +57,6 @@ Future improvements could include:
 * Checking if the guess matches the secret number.
 * Giving hints like "Too small!" or "Too big!".
 
----
 
-Made with ❤️ while learning Rust.
 
-```
+### Made with ❤️ while learning Rust.
