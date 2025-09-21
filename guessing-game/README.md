@@ -24,25 +24,29 @@ You guessed: 42
 - [Rust](https://www.rust-lang.org/tools/install) (latest stable version recommended)
 
 ### Run the Program
-Clone the repository and run: cargo new (your folder name)
 
-(replace ur main.rs with the one in the repo)
+clone the repository
 
+```bash
+git clone https://github.com/Xyt564
+````
+
+```bash
+cargo new (your folder name)
+````
+
+```bash
+replace ur main.rs with the one in the repo
+````
+
+```bash
 cargo build
+````
+
 
 ```bash
 cargo run
 ````
-
-### Build the Program
-
-To compile the binary:
-
-```bash
-cargo build --release
-```
-
-The executable will be located in `target/release/`.
 
 ## Next Steps
 
