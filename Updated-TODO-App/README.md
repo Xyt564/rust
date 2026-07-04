@@ -28,20 +28,25 @@ Designed for developers and terminal enthusiasts who prefer managing tasks witho
 
 ## Installation
 
-Clone the repository:
+> Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/Xyt564/rust.git
 ```
 
-Build and run:
+> Get into the Repo folder
+
+```
+cd rust/Updated-TODO-App/
+```
+
+> Build and run:
 
 ```bash
 cargo run
 ```
 
-Or compile a release build:
+> Or compile a release build:
 
 ```bash
 cargo build --release
@@ -105,7 +110,6 @@ Example:
 ```text
 src/
  └── main.rs
-
 tasks.json      # Generated automatically
 Cargo.toml
 README.md
