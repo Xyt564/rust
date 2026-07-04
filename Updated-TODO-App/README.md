@@ -20,7 +20,7 @@ Designed for developers and terminal enthusiasts who prefer managing tasks witho
 ---
 
 ## Preview
-
+![TUI TODO Screenshot](assets/screenshot.png)
 
 
 ## Installation
