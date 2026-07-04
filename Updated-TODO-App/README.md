@@ -3,10 +3,6 @@
 [![Rust](https://img.shields.io/badge/Rust-1.89+-orange?logo=rust)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-A fast, minimal, and keyboard-driven TODO application built in **Rust** using **Ratatui** and **Crossterm**.
-```
-
-
 A fast, minimal, and keyboard-driven TODO application built in **Rust** using **Ratatui**, **Serde**, **Serde_JSON** and **Crossterm**.
 
 Designed for developers and terminal enthusiasts who prefer managing tasks without leaving the command line.
