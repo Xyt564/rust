@@ -2,6 +2,7 @@
 
 [![Rust](https://img.shields.io/badge/Rust-1.89+-orange?logo=rust)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Security Policy](https://img.shields.io/badge/Security-Policy-success)](SECURITY.md)
 
 A fast, minimal, and keyboard-driven TODO application built in **Rust** using **Ratatui**, **Serde**, **Serde_JSON** and **Crossterm**.
 
